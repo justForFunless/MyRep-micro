@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hello-service/battcn-hello-service.iml" filepath="$PROJECT_DIR$/hello-service/battcn-hello-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/cloud-zuul.iml" filepath="$PROJECT_DIR$/.idea/cloud-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway-service/gateway-service.iml" filepath="$PROJECT_DIR$/gateway-service/gateway-service.iml" />
+    </modules>
+  </component>
+</project>
