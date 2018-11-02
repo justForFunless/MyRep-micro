@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/feign-client/feign-client.iml" filepath="$PROJECT_DIR$/feign-client/feign-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/feign-test.iml" filepath="$PROJECT_DIR$/.idea/feign-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-for-feign/hello-for-feign.iml" filepath="$PROJECT_DIR$/hello-for-feign/hello-for-feign.iml" />
+      <module fileurl="file://D:/xiangmu/microservice-discovery-eureka/microservice-discovery-eureka.iml" filepath="D:/xiangmu/microservice-discovery-eureka/microservice-discovery-eureka.iml" />
+    </modules>
+  </component>
+</project>

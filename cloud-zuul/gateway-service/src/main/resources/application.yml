@@ -1,9 +1,9 @@
 server:
   port: 9000
 
-zuul:
-  routes:
-    hello-service: /api-hello/**
+#zuul:
+#  routes:
+#    hello-service: /api-hello/**
 
 #zuul:
 #  routes:
@@ -11,11 +11,11 @@ zuul:
 #      path: /api-hello/**   #路由路径
 #      serviceId: battcn-hello-service #VIP 模式中的 serviceId
 
-#zuul:
-#  routes:
-#    hello-service:
-#      path: /api-hello/**   #路由路径
-#      url: http://localhost:9001/   #指定URL地址
+zuul:
+  routes:
+    hello-service:
+      path: /api-hello/**   #路由路径
+      url: http://localhost:9001/hello   #指定URL地址
 
 #zuul:
 #  routes:
